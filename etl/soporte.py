@@ -107,7 +107,7 @@ class Extraccion_limpieza():
 
 
 
-# creamos la clase de creación de BBDD y tablas de SQL
+# creamos la clase de creación de BBDD y tablas de SQL 
 class Bbdd_sql:
     
     def __init__(self, nombre_bbdd, contraseña):

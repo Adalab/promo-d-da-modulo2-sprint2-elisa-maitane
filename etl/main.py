@@ -71,7 +71,7 @@ print("-----------------------------------------")
 
 
 
-# iniciamos la clase Bbdd_sql
+# iniciamos la clase Bbdd_sql 
 carga = sp.Bbdd_sql(nombre_bbdd, contraseña)
 
 # usamos el método para crear la base de datos
